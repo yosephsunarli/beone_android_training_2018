@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">BusinessPartner</string>
+    <string name="loremipsum">Lorem Ipsum</string>
+    <string name="hello_world">Hello World!</string>
+    <string name="inputName">Please Input Your Name</string>
+    <string name="sayHello">Say Hello</string>
+</resources>
